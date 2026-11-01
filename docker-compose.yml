@@ -1,0 +1,10 @@
+services:
+  react-img-1:
+    build: .
+    ports:
+      - 7373:5173
+
+  react-img-2:
+    build: .
+    ports:
+      - 7474:5173  

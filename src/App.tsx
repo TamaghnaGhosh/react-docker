@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Bind Mount Docker Example</h1>
+      <h1>Docker React App</h1>
     </>
   );
 }
